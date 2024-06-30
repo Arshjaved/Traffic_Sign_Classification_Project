@@ -1,0 +1,6 @@
+venv/
+*.npy
+train_images.npy
+train_labels.npy
+test_images.npy
+test_labels.npy
